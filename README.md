@@ -32,7 +32,7 @@ The database demonstrates the implementation of:
 ## 🗺️ ER Diagram
 The project began with designing the ER (Entity Relationship) Diagram, which identified the entities, attributes, and relationships. The database tables were created from this design.
 
-**ER Diagram Link:** _Add your ER diagram link here_
+**ER Diagram Link:https://github.com/iam-nikitha/Online_Railway_Reservation_System/commit/87d597aac9b04e47255ff6edc7b24bb41d71afa0
 
 ## 🗄️ Database Tables
 The project contains the following tables:
